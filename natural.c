@@ -1,7 +1,8 @@
-Name:Nirdesh Dhami
+/*Name:Nirdesh Dhami
 Roll no.:15
 subject:Programming fundamental
 Date:2016-11-21
+*/
 #include<stdio.h>
 
          int main()
