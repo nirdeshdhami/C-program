@@ -1,3 +1,9 @@
+/*Name:Nirdesh Dhami
+Course:BCS
+Roll no.:15
+subject:programming fundamental
+Date:2016-11-20
+*/
 #include<stdio.h>
 
          int main()
